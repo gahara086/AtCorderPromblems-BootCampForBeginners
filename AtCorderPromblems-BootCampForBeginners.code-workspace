@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iomanip": "cpp",
+			"list": "cpp",
+			"complex": "cpp",
+			"string": "cpp",
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"modint": "cpp",
+			"bitset": "cpp",
+			"tuple": "cpp",
+			"unordered_set": "cpp",
+			"numeric": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"valarray": "cpp",
+			"*.tcc": "cpp",
+			"charconv": "cpp",
+			"algorithm": "cpp",
+			"random": "cpp"
+		}
+	}
+}
